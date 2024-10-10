@@ -14,11 +14,11 @@ hunter_add_version(
     PACKAGE_NAME
     libffi
     VERSION
-    "3.2.1"
+    "3.4.1"
     URL
-    "https://sourceware.org/pub/libffi/libffi-3.2.1.tar.gz"
+    "https://sourceware.org/pub/libffi/libffi-3.4.3.tar.gz"
     SHA1
-    280c265b789e041c02e5c97815793dfc283fb1e6
+    86c5eddb9312d1d41e280d92678bc0cf177086e8
 )
 
 hunter_configuration_types(libffi CONFIGURATION_TYPES Release)
