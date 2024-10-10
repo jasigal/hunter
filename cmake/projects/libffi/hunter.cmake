@@ -14,7 +14,7 @@ hunter_add_version(
     PACKAGE_NAME
     libffi
     VERSION
-    "3.4.1"
+    "3.4.3"
     URL
     "https://sourceware.org/pub/libffi/libffi-3.4.3.tar.gz"
     SHA1
@@ -33,7 +33,7 @@ hunter_cmake_args(
 hunter_cacheable(libffi)
 hunter_download(
     PACKAGE_NAME libffi
-    PACKAGE_INTERNAL_DEPS_ID "2"
+    PACKAGE_INTERNAL_DEPS_ID "9"
     PACKAGE_UNRELOCATABLE_TEXT_FILES
     "lib64/libffi.la"
     "lib/pkgconfig/libffi.pc"
