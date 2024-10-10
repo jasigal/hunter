@@ -16,7 +16,7 @@ hunter_add_version(
     VERSION
     "3.4.3"
     URL
-    "https://sourceware.org/pub/libffi/libffi-3.4.3.tar.gz"
+    "https://github.com/libffi/libffi/releases/download/v3.4.3/libffi-3.4.3.tar.gz"
     SHA1
     86c5eddb9312d1d41e280d92678bc0cf177086e8
 )
